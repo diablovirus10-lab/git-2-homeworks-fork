@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/git-2-homeworks-fork.iml" filepath="$PROJECT_DIR$/.idea/git-2-homeworks-fork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../git-2-homeworks-revert/.idea/git-2-homeworks-revert.iml" filepath="$PROJECT_DIR$/../git-2-homeworks-revert/.idea/git-2-homeworks-revert.iml" />
     </modules>
   </component>
 </project>
